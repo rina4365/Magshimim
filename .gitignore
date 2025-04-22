@@ -1,0 +1,21 @@
+# Build results
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.user
+*.cache
+*.log
+*.vcxproj.user
+
+# VS folders
+.vs/
+Debug/
+Release/
+x64/
+ipch/
+out/
+
+# Other
+*.DS_Store
